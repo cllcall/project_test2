@@ -1,7 +1,0 @@
-package Controller;
-
-class iaabba{
-
-
-}
-
